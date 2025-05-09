@@ -131,7 +131,7 @@ Follow these steps to set up QuizMaster locally. Ensure you have **Python 3.8+**
 ## Authors
 
 - **Jainish Gandhi**  
-  GitHub: [github.com/jainishgandhi](https://github.com/jainish2594)
+  GitHub: [github.com/jainishgandhi](https://github.com/Jainish2594)
 
 - **Keshini Trivedi**
   GitHub: [github.com/keshinitrivedi](https://github.com/keshinitrivedi)
